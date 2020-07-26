@@ -1,6 +1,6 @@
 <p class="membership-post">Get special treatment! Discover.earth members get bonuses like:</p>
 
-<p class="membership-post">☄️ Asteroid tier</p>
+<p class="membership-post tier-header">☄️ Asteroid tier</p>
 <ul class="membership-post">
   <li>🌎 Patreon-only forum group</li>
   <li>🌎 Big Ideas Network blog full access</li>
@@ -8,7 +8,7 @@
   <li>🌎 Special flairs and badges</li>
 </ul>
 
-<p class="membership-post">🪐 Planetary tier</p>
+<p class="membership-post tier-header">🪐 Planetary tier</p>
 <ul class="membership-post">
   <li>🌎 Monthly group video chat with other Patreons and Ben (discover.earth founder)</li>
   <li>🌎 Get credited in the Big Ideas Network email</li>
@@ -16,7 +16,7 @@
   <li>+ All of the above</li>
 </ul>
 
-<p class="membership-post">🌟 Stellar tier</p>
+<p class="membership-post tier-header">🌟 Stellar tier</p>
 <ul class="membership-post">
   <li>🌎 One time one-on-one 60-minute phone call with Ben</li>
   <li>🌎 100's of upcoming Big Ideas Network articles and research</li>
